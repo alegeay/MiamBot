@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "@slack/bolt": "^3.12.1",
+    "googleapis": "105"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "LeGuideDuValeurieux",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:alegeay/LeGuideDuValeurieux.git",
+  "author": "Alexis <alexislegeay@hotmail.fr>",
+  "license": "MIT"
+}
