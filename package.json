@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "@google-cloud/local-auth": "2.1.0",
+    "@google-cloud/local-auth": "^2.1.1",
     "@slack/bolt": "^3.12.1",
-    "googleapis": "105"
+    "fs": "^0.0.1-security",
+    "googleapis": "105",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
   },
   "devDependencies": {
     "dotenv": "^16.0.3",
